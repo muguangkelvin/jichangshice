@@ -1,0 +1,65 @@
+{
+  "profileVersion": "2026.1.0",
+  "domain": "https://jichangshice.mom",
+  "siteTopic": "建立以“机场实测”为核心品牌定位的机场推荐、机场测评与科学上网新手指南站",
+  "primaryKeywords": [
+    "机场实测",
+    "机场推荐",
+    "机场测评",
+    "机场测速",
+    "梯子推荐",
+    "科学上网",
+    "魔法上网",
+    "魔法机场",
+    "翻墙机场",
+    "VPN推荐"
+  ],
+  "secondaryKeywords": [
+    "2026机场推荐", "稳定机场推荐", "靠谱机场推荐", "高速机场推荐", "便宜机场推荐",
+    "性价比机场", "机场排行榜", "机场对比", "机场评测推荐", "翻墙梯子推荐",
+    "科学上网机场", "魔法梯子", "机场节点", "节点推荐", "机场订阅",
+    "机场订阅推荐", "机场线路", "IEPL机场", "IPLC机场", "专线机场",
+    "SS机场", "V2Ray机场", "Trojan机场", "VLESS机场", "机场测速",
+    "节点测速", "晚高峰测速", "流媒体解锁", "Netflix机场", "YouTube机场",
+    "Disney+机场", "TikTok节点", "ChatGPT机场", "Claude节点", "Gemini节点",
+    "AI解锁机场", "Clash机场", "Shadowrocket机场", "v2rayN机场", "新手机场推荐"
+  ],
+  "longTailKeywords": [
+    "2026机场推荐哪个好", "机场推荐哪个稳定", "机场哪个便宜好用", "机场实测排名",
+    "机场测速对比", "晚高峰机场测速", "机场会不会跑路", "机场怎么选",
+    "新手第一次买机场怎么选", "月付机场推荐", "按量付费机场", "不限时流量机场",
+    "Clash订阅导入教程", "Shadowrocket怎么添加订阅", "ChatGPT用什么机场"
+  ],
+  "heroKeywords": [
+    "机场实测", "2026机场推荐", "机场测评", "稳定机场推荐", "梯子推荐",
+    "科学上网", "机场测速", "机场对比", "新手机场推荐"
+  ],
+  "footerKeywords": [
+    "机场实测", "机场推荐", "机场测评", "梯子推荐", "科学上网",
+    "魔法上网", "魔法机场", "机场测速", "机场节点", "机场订阅",
+    "Clash教程", "Shadowrocket教程", "v2rayN教程", "稳定机场",
+    "便宜机场", "专线机场", "AI节点", "流媒体解锁"
+  ],
+  "navigationItems": [
+    { "label": "首页", "url": "/", "type": "home", "articleCount": 0 },
+    { "label": "机场实测", "url": "/test/", "type": "test", "primaryKeyword": "机场实测", "articleCount": 35 },
+    { "label": "机场推荐", "url": "/recommend/", "type": "recommend", "primaryKeyword": "机场推荐", "articleCount": 30 },
+    { "label": "机场对比", "url": "/compare/", "type": "compare", "primaryKeyword": "机场对比", "articleCount": 30 },
+    { "label": "梯子推荐", "url": "/ladder/", "type": "ladder", "primaryKeyword": "梯子推荐", "articleCount": 25 },
+    { "label": "科学上网", "url": "/guide/", "type": "guide", "primaryKeyword": "科学上网", "articleCount": 35 },
+    { "label": "客户端教程", "url": "/clients/", "type": "clients", "primaryKeyword": "客户端教程", "articleCount": 45 },
+    { "label": "线路与节点", "url": "/nodes/", "type": "nodes", "primaryKeyword": "线路与节点", "articleCount": 25 },
+    { "label": "AI与流媒体", "url": "/unlock/", "type": "unlock", "primaryKeyword": "AI与流媒体", "articleCount": 25 },
+    { "label": "机场知识库", "url": "/wiki/", "type": "wiki", "primaryKeyword": "机场知识库", "articleCount": 40 },
+    { "label": "常见问题", "url": "/faq/", "type": "faq", "primaryKeyword": "常见问题", "articleCount": 100 },
+    { "label": "本站服务", "url": "/services/", "type": "services", "primaryKeyword": "本站服务", "articleCount": 10 }
+  ],
+  "faqKeywordCount": 100,
+  "topProviders": [
+    { "rank": 1, "name": "灵动云", "url": "https://varnexa.lingdongaff.com/#/?code=JoIy7bO1" },
+    { "rank": 2, "name": "暮光网络", "url": "https://varnexa.twilightaff.com/#/?code=KvGly3jY" },
+    { "rank": 3, "name": "飞猫云", "url": "https://flycat1.flycatvipaff.cc/#/?code=FOdfcRFH" },
+    { "rank": 4, "name": "微风网络", "url": "https://edp01.breezenetaff.com/#/?code=He4n3zxg" }
+  ],
+  "telegramChannel": "https://t.me/+SR_Uz65nwpk2MzNl"
+}

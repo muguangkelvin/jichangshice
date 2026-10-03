@@ -1,0 +1,11 @@
+keyword,normalized_keyword,impressions,intent,primary_url
+机场实测,机场实测,50000,transactional,/test/
+机场推荐,机场推荐,45000,transactional,/recommend/
+机场测评,机场测评,35000,commercial,/test/
+机场测速,机场测速,28000,commercial,/test/
+梯子推荐,梯子推荐,40000,transactional,/ladder/
+科学上网,科学上网,38000,informational,/guide/
+Clash教程,Clash教程,32000,informational,/clients/
+Shadowrocket教程,Shadowrocket教程,30000,informational,/clients/
+IEPL专线,IEPL专线,25000,informational,/nodes/
+ChatGPT机场,ChatGPT机场,27000,transactional,/unlock/
